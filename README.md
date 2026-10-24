@@ -13,3 +13,14 @@ Home page only. The archived site also contained a `booklist/` page and a
 ## Deploy
 
 Pushing to `main` publishes automatically via GitHub Pages.
+
+## Recipes (`/recipes/`)
+
+Weekly dinner plan + family recipe box at thevernonfam.com/recipes/.
+Static HTML/CSS/JS, no build step.
+
+- `recipes/data.js` — all content. Add recipes to `RECIPES`; plan a week by
+  adding an entry to `WEEKS` with its Monday date and a recipe per day.
+- `recipes/app.js` — routing (`#/week`, `#/week/<monday>/<day>`, `#/box`,
+  `#/r/<slug>`), check-off state (saved per phone in localStorage),
+  keep-screen-on, swipe between days.
