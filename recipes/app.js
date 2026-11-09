@@ -200,8 +200,11 @@
     }
     h += "</div>";
 
-    if (week.shopping) {
-      h += '<details class="shop"><summary>Shopping plan</summary><p>' + esc(week.shopping) + "</p></details>";
+    if (week.shopping || week.tip) {
+      h += '<details class="shop"><summary>Shopping plan' + (week.tip ? " &amp; tips" : "") + "</summary>";
+      if (week.shopping) h += "<p>" + esc(week.shopping) + "</p>";
+      if (week.tip) h += "<p><b>Time-saver:</b> " + esc(week.tip) + "</p>";
+      h += "</details>";
     }
 
     h += '<nav class="days" style="grid-template-columns:repeat(' + (days.length + 1) + ',1fr)">';
