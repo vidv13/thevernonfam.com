@@ -246,6 +246,120 @@ window.RECIPES = {
       "Cook spaghetti according to the package and serve it alongside the chicken for the family."
     ],
     note: "Set aside your measured chicken and zucchini. Count marinara and mozzarella according to their labels and your plan guide; spaghetti is for the family."
+  },
+
+  "slow-cooker-ranch-chicken": {
+    title: "Slow Cooker Ranch Chicken with Green Beans & Buttered Rice",
+    time: "5 min prep · 4–6 hours on low",
+    tags: ["chicken", "slow cooker"],
+    ingredients: [
+      "2 lb chicken breast",
+      "1 packet ranch seasoning",
+      "½ cup chicken broth",
+      "1 bag frozen green beans",
+      "Rice and butter for the family"
+    ],
+    steps: [
+      "Put chicken, broth and ranch seasoning in the slow cooker.",
+      "Cook on low for 4–6 hours, until chicken reaches 165°F.",
+      "Shred the chicken.",
+      "Cook the green beans and serve alongside.",
+      "Make buttered rice for the family."
+    ],
+    note: "Measure your cooked chicken and green beans separately. Check the ranch packet’s label before counting it; rice is a family side."
+  },
+
+  "unstuffed-pepper-skillet": {
+    title: "Ground Turkey Unstuffed Pepper Skillet",
+    time: "25–30 minutes · one skillet",
+    tags: ["turkey", "skillet"],
+    ingredients: [
+      "2 lb ground turkey",
+      "2 bell peppers, diced",
+      "1 onion, diced",
+      "1 can diced tomatoes",
+      "Garlic powder and Italian seasoning",
+      "Shredded cheddar",
+      "Rice for the family"
+    ],
+    steps: [
+      "Brown the turkey with the diced onion.",
+      "Add peppers, tomatoes and seasonings.",
+      "Simmer 10–15 minutes until peppers are tender.",
+      "Serve over rice with cheese for the family."
+    ],
+    note: "Reserve your measured turkey and peppers before serving. Count tomatoes and cheese under your plan; rice is for the family."
+  },
+
+  "beef-and-broccoli": {
+    title: "Easy Beef & Broccoli Skillet",
+    time: "20 minutes · one skillet",
+    tags: ["beef", "skillet"],
+    ingredients: [
+      "2 lb lean beef strips",
+      "2 bags frozen broccoli",
+      "¼ cup low-sodium soy sauce",
+      "Garlic powder",
+      "½ cup water",
+      "White rice for the family"
+    ],
+    steps: [
+      "Brown the beef in a skillet.",
+      "Add broccoli, soy sauce, garlic powder and water.",
+      "Cover and cook until broccoli is tender and beef is cooked to your preference.",
+      "Serve with rice for the family."
+    ],
+    note: "Measure your cooked beef and broccoli separately. Count the soy sauce under your plan; rice is a family side."
+  },
+
+  "turkey-cabbage-soup": {
+    title: "Creamy Turkey & Cabbage Soup",
+    time: "35 minutes · one pot",
+    tags: ["turkey", "soup"],
+    ingredients: [
+      "2 lb ground turkey",
+      "½–1 head cabbage, chopped",
+      "1 can diced tomatoes",
+      "6 cups chicken broth",
+      "4 oz light cream cheese, softened",
+      "Garlic powder and Italian seasoning",
+      "Dinner rolls for the family"
+    ],
+    steps: [
+      "Brown the turkey.",
+      "Add cabbage, tomatoes, broth and seasonings.",
+      "Simmer 20 minutes.",
+      "Stir in the softened cream cheese until smooth.",
+      "Serve with dinner rolls."
+    ],
+    note: "Measure your cooked turkey before adding the rest, then ladle and measure your cabbage from the soup. Count cream cheese, tomatoes and broth under your plan; rolls are for the family."
+  },
+
+  "garlic-parmesan-turkey-meatballs": {
+    title: "Garlic Parmesan Turkey Meatballs with Pasta & Roasted Green Beans",
+    time: "15 min prep · 18–22 minutes in the oven",
+    tags: ["turkey", "oven"],
+    ingredients: [
+      "2 lb ground turkey",
+      "1 egg",
+      "¼ cup grated Parmesan",
+      "Garlic powder and Italian seasoning",
+      "½ cup chicken broth",
+      "2 tbsp grated Parmesan for sauce",
+      "1 bag green beans and a little olive oil, for roasting",
+      "Pasta for the family"
+    ],
+    steps: [
+      "Heat oven to 400°F.",
+      "Mix turkey, egg, ¼ cup Parmesan and seasonings.",
+      "Form into small meatballs.",
+      "Toss green beans with a little oil on a second sheet pan.",
+      "Bake meatballs and green beans together about 18–22 minutes, until meatballs reach 165°F and beans are tender.",
+      "Meanwhile, cook pasta according to the package.",
+      "Warm broth with the 2 tbsp Parmesan for sauce and spoon over meatballs.",
+      "Serve with pasta and roasted green beans."
+    ],
+    note: "Measure your meatballs and green beans separately. Count the Parmesan under your plan; pasta is for the family."
   }
 };
 
@@ -273,5 +387,16 @@ window.WEEKS = [
     },
     shopping: "All five dinners use the Aldi order: 4 lb chicken, 4 lb ground turkey and the turkey sausage on hand. Green beans: Monday uses two 12 oz bags and Wednesday one, so the three bags are fully used; you may need extra approved vegetables for your own measured servings. With eight people, the meat may not stretch to big portions or leftovers every night.",
     tip: "Chop Monday’s and Tuesday’s vegetables together, and slice Wednesday’s sausage ahead of time."
+  },
+  {
+    start: "2026-11-16",
+    days: {
+      mon: "slow-cooker-ranch-chicken",
+      tue: "unstuffed-pepper-skillet",
+      wed: "beef-and-broccoli",
+      thu: "turkey-cabbage-soup",
+      fri: "garlic-parmesan-turkey-meatballs"
+    },
+    shopping: "2 lb chicken breast, 6 lb ground turkey and 2 lb lean beef strips. Green beans for Monday and Friday, 2 bags frozen broccoli, cabbage, 2 bell peppers, an onion, 2 cans diced tomatoes, chicken broth, light cream cheese, Parmesan, cheddar, an egg, ranch seasoning and soy sauce. Family sides: rice (Mon–Wed), dinner rolls and pasta."
   }
 ];
