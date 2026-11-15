@@ -332,7 +332,7 @@ window.RECIPES = {
       "Stir in the softened cream cheese until smooth.",
       "Serve with dinner rolls."
     ],
-    note: "Measure the cooked turkey and cabbage before combining so your portion is easy to track. Count cream cheese, tomatoes and broth under your plan; rolls are for the family."
+    note: "Measure your cooked turkey before adding the rest, then ladle and measure your cabbage from the soup. Count cream cheese, tomatoes and broth under your plan; rolls are for the family."
   },
 
   "garlic-parmesan-turkey-meatballs": {
@@ -346,14 +346,17 @@ window.RECIPES = {
       "Garlic powder and Italian seasoning",
       "½ cup chicken broth",
       "2 tbsp grated Parmesan for sauce",
-      "Pasta and green beans for serving"
+      "1 bag green beans and a little olive oil, for roasting",
+      "Pasta for the family"
     ],
     steps: [
       "Heat oven to 400°F.",
       "Mix turkey, egg, ¼ cup Parmesan and seasonings.",
       "Form into small meatballs.",
-      "Bake about 18–22 minutes, until meatballs reach 165°F.",
-      "Warm broth with the remaining Parmesan and spoon over meatballs.",
+      "Toss green beans with a little oil on a second sheet pan.",
+      "Bake meatballs and green beans together about 18–22 minutes, until meatballs reach 165°F and beans are tender.",
+      "Meanwhile, cook pasta according to the package.",
+      "Warm broth with the 2 tbsp Parmesan for sauce and spoon over meatballs.",
       "Serve with pasta and roasted green beans."
     ],
     note: "Measure your meatballs and green beans separately. Count the Parmesan under your plan; pasta is for the family."
@@ -394,6 +397,6 @@ window.WEEKS = [
       thu: "turkey-cabbage-soup",
       fri: "garlic-parmesan-turkey-meatballs"
     },
-    shopping: "2 lb chicken breast, 6 lb ground turkey and 2 lb lean beef strips. Green beans for Monday and Friday, 2 bags frozen broccoli, cabbage, 2 bell peppers, an onion, 2 cans diced tomatoes, chicken broth, light cream cheese, Parmesan, cheddar, ranch seasoning and soy sauce. Family sides: rice (Mon–Wed), dinner rolls and pasta."
+    shopping: "2 lb chicken breast, 6 lb ground turkey and 2 lb lean beef strips. Green beans for Monday and Friday, 2 bags frozen broccoli, cabbage, 2 bell peppers, an onion, 2 cans diced tomatoes, chicken broth, light cream cheese, Parmesan, cheddar, an egg, ranch seasoning and soy sauce. Family sides: rice (Mon–Wed), dinner rolls and pasta."
   }
 ];
