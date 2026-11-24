@@ -523,8 +523,8 @@ window.RECIPES = {
       "Cut potatoes into about ¾-inch pieces. Slice peppers into strips and onions into thick wedges.",
       "Cut the sausage links into 1-inch pieces, whether raw or fully cooked.",
       "Toss potatoes with 2 tbsp oil, half the seasonings, and half the salt and pepper. Spread across both pans and roast 15 minutes.",
-      "Meanwhile, toss peppers, onions and broccoli with the rest of the oil and seasonings.",
-      "Add the vegetables and sausage to the pans in a single layer.",
+      "Meanwhile, toss peppers, onions and broccoli with the rest of the oil, seasonings, salt and pepper.",
+      "Remove the pans from the oven. Add the vegetables and sausage, spreading everything in a single layer.",
       "Roast 20–25 minutes more, stirring vegetables halfway. Raw sausage must reach 160°F for pork or 165°F for chicken or turkey.",
       "Give it a few more minutes if needed, until potatoes are fork-tender and vegetables are browned at the edges.",
       "Sprinkle with Parmesan, if using."
