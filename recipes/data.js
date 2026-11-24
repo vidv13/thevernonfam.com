@@ -497,7 +497,7 @@ window.RECIPES = {
       "Add lime juice, taste and adjust seasoning.",
       "Serve with cornbread, shredded cheese or avocado."
     ],
-    note: "Measure your turkey before it goes in the pot. Count beans, corn and cream cheese under your plan; cornbread is for the family. Use turkey that was refrigerated promptly after Thanksgiving; Friday is within the 3–4 day window for cooked turkey."
+    note: "Measure your turkey before it goes in the pot. Count beans, corn and cream cheese under your plan; cornbread is for the family. Use Thanksgiving turkey that was refrigerated promptly and kept at 40°F or below; Friday is within the 3–4 day window for cooked turkey."
   },
 
   "sheet-pan-sausage-peppers-potatoes": {
@@ -521,8 +521,8 @@ window.RECIPES = {
     steps: [
       "Heat oven to 425°F. Line two large rimmed baking sheets with parchment.",
       "Cut potatoes into about ¾-inch pieces. Slice peppers into strips and onions into thick wedges.",
-      "If the sausage is fully cooked, cut it into 1-inch pieces. If it’s raw, leave the links whole for now.",
-      "Toss potatoes with 2 tbsp oil and half the seasonings, salt and pepper. Spread across both pans and roast 15 minutes.",
+      "Cut the sausage links into 1-inch pieces, whether raw or fully cooked.",
+      "Toss potatoes with 2 tbsp oil, half the seasonings, and half the salt and pepper. Spread across both pans and roast 15 minutes.",
       "Meanwhile, toss peppers, onions and broccoli with the rest of the oil and seasonings.",
       "Add the vegetables and sausage to the pans in a single layer.",
       "Roast 20–25 minutes more, stirring vegetables halfway. Raw sausage must reach 160°F for pork or 165°F for chicken or turkey.",
@@ -578,7 +578,7 @@ window.WEEKS = [
       fri: "leftover-turkey-white-bean-chili",
       sat: "sheet-pan-sausage-peppers-potatoes"
     },
-    shopping: "No dinner Thursday: it’s Thanksgiving, and Friday uses 3 cups of the leftover turkey. Meat: 2½ lb chicken breast, 2 lb lean ground beef, 4–5 lb pork shoulder and 2½–3 lb Italian sausage. Produce: 5 onions, garlic, 4 bell peppers, romaine, 3 tomatoes, 3 lb sweet potatoes, 3 lb baby potatoes, 2 lb green beans, 2 lb broccoli florets, a lime and fruit. Plus 2 bags frozen broccoli, 4 cups white rice, about 13 cups chicken broth, 2 cans black beans, 3 cans white beans, 2 cans green chiles, a can of corn, an 8 oz can of tomato sauce, 1½ cups Greek yogurt, cheddar, Mexican cheese, 4 oz cream cheese, salsa, 2 taco seasoning packets, barbecue sauce, tortillas, 8 buns and cornbread.",
+    shopping: "No dinner Thursday: it’s Thanksgiving, and Friday uses 3 cups of the leftover turkey. Meat: 2½ lb chicken breast, 2 lb lean ground beef, 4–5 lb pork shoulder and 2½–3 lb Italian sausage. Produce: 5 onions, garlic, 4 bell peppers, romaine, 3 tomatoes, 3 lb sweet potatoes, 3 lb baby potatoes, 2 lb green beans, 2 lb broccoli florets, a lime and fruit. Plus 2 bags frozen broccoli, 4 cups white rice, about 13 cups chicken broth, 2 cans black beans, 3 cans white beans, 2 cans green chiles, a can of corn, an 8 oz can of tomato sauce, 1½ cups Greek yogurt, cheddar, Mexican cheese, 4 oz cream cheese, salsa, 2 taco seasoning packets, barbecue sauce, tortillas, 8 buns and cornbread. Optional: Parmesan and avocado.",
     tip: "Sunday: dice Monday’s onion, cut the chicken, wash Tuesday’s lettuce and tomatoes, and check the pork shoulder is thawed. Tuesday night: mix the pork rub and slice the slow-cooker onion. Friday: shred the leftover turkey and chop Saturday’s vegetables."
   }
 ];
