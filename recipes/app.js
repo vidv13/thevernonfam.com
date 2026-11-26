@@ -132,6 +132,7 @@
     if (opts.kicker) h += '<div class="kicker">' + esc(opts.kicker) + "</div>";
     h += "<h2>" + (opts.link ? '<a href="#/r/' + esc(slug) + '">' + esc(r.title) + "</a>" : esc(r.title)) + "</h2>";
     if (r.time) h += '<p class="meta">' + esc(r.time) + "</p>";
+    if (r.source) h += '<p class="meta"><i>' + esc(r.source) + "</i></p>";
     if (r.tags && r.tags.length) {
       h += '<div class="tags">' + r.tags.map(function (t) { return '<span class="tag">' + esc(t) + "</span>"; }).join("") + "</div>";
     }

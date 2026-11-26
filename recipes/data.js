@@ -2,7 +2,7 @@
 //
 // To add a recipe: add an entry to RECIPES (the key is its URL slug).
 // To plan a week: add an entry to WEEKS with the Monday date and a recipe slug per day.
-// Plain text only; the page handles escaping.
+// Optional "source" credits where a recipe came from. Plain text only; the page handles escaping.
 
 window.RECIPES = {
   "salsa-chicken-bowls": {
@@ -535,7 +535,7 @@ window.RECIPES = {
   "cabbage-casserole": {
     title: "Old-Fashioned Cabbage Casserole",
     time: "15 min prep · 30 minutes in the oven · serves 8",
-    tags: ["side dish", "casserole", "oven"],
+    tags: ["side dish", "casserole", "oven", "thanksgiving"],
     ingredients: [
       "1 small head green cabbage",
       "1 medium Vidalia onion, chopped",
@@ -555,6 +555,32 @@ window.RECIPES = {
       "In a small bowl, stir together soup and mayonnaise. Spread over the cabbage.",
       "In another bowl, stir together melted butter, cheese and cracker crumbs. Sprinkle over the casserole.",
       "Bake 30 minutes, until the topping is browned."
+    ]
+  },
+
+  "apple-orange-cranberry-sauce": {
+    title: "Apple-Orange Cranberry Sauce",
+    time: "15 min prep · 20 min cooking · plus 1 hour to cool · makes 3½–4 cups",
+    tags: ["side dish", "make ahead", "thanksgiving"],
+    source: "Adapted from Williams-Sonoma Kitchen Library, Thanksgiving & Christmas, by Chuck Williams (1993)",
+    ingredients: [
+      "½ orange",
+      "2 cups water",
+      "1 tart apple, such as Granny Smith, pippin or McIntosh",
+      "3 cups fresh cranberries",
+      "1¼ cups sugar",
+      "½ tsp ground cinnamon",
+      "¼ tsp ground cloves"
+    ],
+    steps: [
+      "Squeeze the juice from the orange and set the juice aside. Remove and discard the membrane from inside the rind, and cut the rind into small dice.",
+      "In a small saucepan over high heat, combine the rind and the water and bring to a boil. Cook 10 minutes, then drain and set aside.",
+      "Peel, core and quarter the apple. Cut into ½-inch dice and place in a saucepan.",
+      "Sort the cranberries, discarding any soft ones. Add to the apples with the orange juice, orange rind, sugar, cinnamon and cloves.",
+      "Bring to a boil over high heat, then reduce the heat to low and partially cover the pan.",
+      "Simmer gently, stirring occasionally, 10–15 minutes, until the sauce thickens, the apple is tender and the cranberries have burst.",
+      "Transfer to a heatproof bowl and let cool 1 hour before serving. Or cover and refrigerate; bring to room temperature before serving.",
+      "Transfer to a sauceboat and pass at the table."
     ]
   }
 };
