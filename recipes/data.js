@@ -530,6 +530,32 @@ window.RECIPES = {
       "Sprinkle with Parmesan, if using."
     ],
     note: "Use both pans; crowding one makes the vegetables steam instead of roast. Measure your sausage with the peppers and broccoli. Check the sausage label before counting it; potatoes are for the family."
+  },
+
+  "cabbage-casserole": {
+    title: "Old-Fashioned Cabbage Casserole",
+    time: "15 min prep · 30 minutes in the oven · serves 8",
+    tags: ["side dish", "casserole", "oven"],
+    ingredients: [
+      "1 small head green cabbage",
+      "1 medium Vidalia onion, chopped",
+      "8 tbsp butter",
+      "Salt and pepper",
+      "1 can condensed cream of chicken or cream of mushroom soup (10 oz)",
+      "⅓ cup mayonnaise",
+      "Topping: 3 tbsp melted butter",
+      "Topping: 1 cup shredded sharp cheddar",
+      "Topping: 1 sleeve Ritz crackers (about 30), coarsely crushed"
+    ],
+    steps: [
+      "Preheat oven to 350°F. Lightly grease a 2-quart casserole dish.",
+      "Coarsely chop the cabbage. Melt butter in a large nonstick pan. Add cabbage and onion and cook 8–10 minutes, stirring often, until partially cooked down.",
+      "Season to taste with salt and pepper.",
+      "Transfer the cabbage mixture to the prepared dish.",
+      "In a small bowl, stir together soup and mayonnaise. Spread over the cabbage.",
+      "In another bowl, stir together melted butter, cheese and cracker crumbs. Sprinkle over the casserole.",
+      "Bake 30 minutes, until the topping is browned."
+    ]
   }
 };
 
